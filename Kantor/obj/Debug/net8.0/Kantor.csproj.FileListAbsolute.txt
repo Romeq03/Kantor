@@ -1,0 +1,14 @@
+/Users/bartek/Projects/Kantor/Kantor/bin/Debug/net8.0/Kantor
+/Users/bartek/Projects/Kantor/Kantor/bin/Debug/net8.0/Kantor.deps.json
+/Users/bartek/Projects/Kantor/Kantor/bin/Debug/net8.0/Kantor.runtimeconfig.json
+/Users/bartek/Projects/Kantor/Kantor/bin/Debug/net8.0/Kantor.dll
+/Users/bartek/Projects/Kantor/Kantor/bin/Debug/net8.0/Kantor.pdb
+/Users/bartek/Projects/Kantor/Kantor/obj/Debug/net8.0/Kantor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bartek/Projects/Kantor/Kantor/obj/Debug/net8.0/Kantor.AssemblyInfoInputs.cache
+/Users/bartek/Projects/Kantor/Kantor/obj/Debug/net8.0/Kantor.AssemblyInfo.cs
+/Users/bartek/Projects/Kantor/Kantor/obj/Debug/net8.0/Kantor.csproj.CoreCompileInputs.cache
+/Users/bartek/Projects/Kantor/Kantor/obj/Debug/net8.0/Kantor.dll
+/Users/bartek/Projects/Kantor/Kantor/obj/Debug/net8.0/refint/Kantor.dll
+/Users/bartek/Projects/Kantor/Kantor/obj/Debug/net8.0/Kantor.pdb
+/Users/bartek/Projects/Kantor/Kantor/obj/Debug/net8.0/Kantor.genruntimeconfig.cache
+/Users/bartek/Projects/Kantor/Kantor/obj/Debug/net8.0/ref/Kantor.dll
